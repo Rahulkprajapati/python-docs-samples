@@ -1,4 +1,4 @@
-## Google Cloud Platform Python Samples
+## Google Cloud Platform Python Samples!
 
 [![Open in Cloud Shell][shell_img]][shell_link]
 
